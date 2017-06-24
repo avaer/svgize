@@ -1,3 +1,10 @@
+class ColorPoint {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+  }
+}
+
 function imageDataToSvg(imageData, opts) {
   const {width, height} = imageData;
   const style = (opts && opts.style) ? opts.style : '';

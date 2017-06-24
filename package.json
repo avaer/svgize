@@ -1,0 +1,24 @@
+{
+  "name": "svgize",
+  "version": "0.0.1",
+  "description": "Convert images to svg strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/svgize.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/svgize/issues"
+  },
+  "homepage": "https://github.com/modulesio/svgize#readme",
+  "dependencies": {
+    "alea": "0.0.9",
+    "cache-lru": "^1.0.15"
+  },
+  "devDependencies": {}
+}

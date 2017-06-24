@@ -1,6 +1,6 @@
 {
   "name": "svgize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert images to svg strings",
   "main": "index.js",
   "scripts": {
